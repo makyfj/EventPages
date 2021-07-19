@@ -54,6 +54,12 @@ h3 {
   font-family: "Oswald", "Roboto", sans-serif;
 }
 
+.header-home {
+  text-align: center;
+  font-size: 3.5rem;
+  color: #94fdfd;
+}
+
 a {
   text-decoration: none;
 }
