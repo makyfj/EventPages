@@ -64,6 +64,10 @@ a {
   text-decoration: none;
 }
 
+.center {
+  text-align: center;
+}
+
 button {
   font: inherit;
   cursor: pointer;
