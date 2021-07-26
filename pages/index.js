@@ -19,6 +19,8 @@ export async function getStaticProps() {
     props: {
       events: featuredEvents,
     },
+    // Regenerate new data every 10-15 minutes
+    revalidate: 500,
   };
 }
 
